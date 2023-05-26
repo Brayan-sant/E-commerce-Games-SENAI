@@ -1,4 +1,5 @@
 # E-commerce: loja de Games - SENAI 
 
- Foi desenvolvido um protótipo para loja de E-commerce voltada para Games. 
- As ferramentas utilizadas incluem o uso de HTML, CSS e Bootstrap para tramamento de design do layout, e uso de Javascript e Jquery para configuraçãoes da página de _Login_ do usuário.
+ Foi desenvolvido um protótipo para loja de E-commerce voltada para Games.
+ 
+ As ferramentas utilizadas incluem o uso de __HTML, CSS__ e __Bootstrap__ para tramamento de design do layout, e uso de Javascript e Jquery para configuraçãoes da página de _Login_ do usuário.
