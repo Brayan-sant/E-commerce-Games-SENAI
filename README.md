@@ -1,6 +1,6 @@
 # E-commerce: loja de Games - SENAI 
 
- Foi desenvolvido um protótipo para loja de E-commerce voltada para Games.
+ &nbsp;&nbsp;&nbsp;&nbsp; Foi desenvolvido um protótipo para loja de E-commerce voltada para Games.
  
  As ferramentas utilizadas incluem: 
  
