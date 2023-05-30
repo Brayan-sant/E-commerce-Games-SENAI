@@ -8,4 +8,4 @@
  
  &nbsp;&nbsp;&nbsp;&nbsp; Modificador de estilos como _Cascading Style Sheets_  __(CSS)__ e seu framework __Bootstrap__ para tramamento de design do layout;
  
- Uso de Javascript e Jquery para configuraçãoes da página de _Login_ do usuário.
+ &nbsp;&nbsp;&nbsp;&nbsp; Uso de Javascript e Jquery para configuraçãoes da página de _Login_ do usuário.
