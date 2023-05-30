@@ -19,36 +19,40 @@
 <body>
   <header>
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
-      <a class="navbar-brand" href="index.html"><img src="img/logo.png"></a>
-      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#conteudoNavbarSuportado" aria-controls="conteudoNavbarSuportado" aria-expanded="false" aria-label="Alterna navegação">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-      <div class="collapse navbar-collapse" id="conteudoNavbarSuportado">
-        <ul class="navbar-nav mr-auto">
-          <li class="nav-item active">
-            <a class="nav-link" href="#">Promoções <span class="sr-only">(página atual)</span></a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#">Console</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#">Jogos</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="login.html">Login</a>
-          </li>
-        </ul>
-        <form class="form-inline my-2 my-lg-0">
-          <input class="form-control mr-sm-2" type="search" placeholder="O que deseja pesquisar?" aria-label="Pesquisar">
-          <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Pesquisar</button>
-        </form>
+      <div class="container-fluid">
+        <a class="navbar-brand" href="index.html"><img src="img/logo.png"></a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#conteudoNavbarSuportado" aria-controls="conteudoNavbarSuportado" aria-expanded="false" aria-label="Alterna navegação">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="conteudoNavbarSuportado">
+          <ul class="navbar-nav mr-auto">
+            <li class="nav-item active">
+              <a class="nav-link" href="#">Promoções <span class="sr-only"></span></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Console</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Jogos</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="login.html">>>Login<<</a>
+            </li>
+          </ul>
+          <div class="nav">
+            <form class="form-inline my-2 my-lg-0">
+              <input class="form-control mr-sm-2" type="search" placeholder="O que deseja pesquisar?" aria-label="Pesquisar">
+            </form>
+            <button class="btn btn-outline-success" type="submit">Pesquisar</button>
+          </div>
+        </div>
       </div>
     </nav>
   </header>
 
   <main>
     <section id="section-banners" class="container-fluid">
-      <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+      <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
         <div class="carousel-inner">
           <div class="carousel-item active">
             <img class="d-block w-100" src="img/banner1.PNG" alt="Venha comprar na nossa loja!">
@@ -60,12 +64,14 @@
             <img class="d-block w-100" src="img/banner3.PNG" alt="Produtos em destaque">
           </div>
         </div>
-        <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls">
           <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-        </a>
-        <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+          <span class="visually-hidden">Previus</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls">
           <span class="carousel-control-next-icon" aria-hidden="true"></span>
-        </a>
+          <span class="visually-hidden">Next</span>
+        </button>
       </div>
     </section>
 
