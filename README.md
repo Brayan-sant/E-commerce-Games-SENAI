@@ -1,8 +1,8 @@
 # E-commerce: loja de Games - SENAI 
 
  &nbsp;&nbsp;&nbsp;&nbsp; Foi desenvolvido um protótipo para loja de E-commerce voltada para Games.
- 
- &nbsp;&nbsp;&nbsp;&nbsp; As ferramentas utilizadas incluem: 
+
+- As ferramentas utilizadas incluem: 
  
  &nbsp;&nbsp;&nbsp;&nbsp; O uso de linguagem de marcação de hipertexto __(HTML)__;
  
