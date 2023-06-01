@@ -6,9 +6,12 @@ header img {
 
 
 .nav {
-    display: flex; 
-    min-width: 100px;
+   
     margin-left: 55%;
+}
+
+.btn{
+    margin-left: 10px;
 }
 
 
