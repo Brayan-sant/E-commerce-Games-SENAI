@@ -1,4 +1,4 @@
-# E-commerce: loja de Games - SENAI <img width="120" align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqvZDSgt089RcfdiasRBaYWPVtqPUJgDENLQ&usqp=CAU">
+:video_game: # E-commerce: loja de Games - SENAI <img width="120" align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqvZDSgt089RcfdiasRBaYWPVtqPUJgDENLQ&usqp=CAU">
 
  &nbsp; Foi desenvolvido um protótipo para loja de E-commerce voltada para Games.
 #
