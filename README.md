@@ -1,4 +1,4 @@
-# E-commerce: loja de Games - SENAI <img width="150" align="right" src="https://www.senairs.org.br/sites/default/files/styles/scale_sm/public/logos/logos_senai_branco.png?itok=25HaNKVc">
+# E-commerce: loja de Games - SENAI <img width="150" align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqvZDSgt089RcfdiasRBaYWPVtqPUJgDENLQ&usqp=CAU">
 
  &nbsp; Foi desenvolvido um protótipo para loja de E-commerce voltada para Games.
 
