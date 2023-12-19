@@ -10,4 +10,4 @@
  
 - Uso da linguagem de programação __Javascript (JS)__ e sua biblioteca __Jquery__ para configurações da página de _Login_ do usuário.
 #
-**Link de Acesso: [E-commerce Games](https://brayan-sant.github.io/E-commerce-Games-SENAI/)*
+**Link de Acesso: [E-commerce Games](https://brayan-sant.github.io/E-commerce-Games-SENAI/)**
